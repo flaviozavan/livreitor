@@ -1,0 +1,11 @@
+# first_image last_image number_of_pages_per_picture
+1 1 1
+2 36 2
+37 76 2
+77 111 2
+112 180 2
+181 203 2
+204 228 2
+229 241 2
+242 242 2
+243 243 1
